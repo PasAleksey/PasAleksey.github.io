@@ -1,0 +1,14 @@
+doctype html
+html(lang="ru")
+include modules/head
+body
+    include  modules/black-box
+    include modules/header
+    section.hero
+        p.title
+            a(href="draw-canvas.html") draw
+        p.title
+            a(href="tetris.html") tetris
+    include modules/footer
+//script(src="https://unpkg.com/imask")
+script(src="js/scripts.min.js")

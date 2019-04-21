@@ -1,0 +1,41 @@
+<svg width="158" height="107" viewBox="0 0 158 107" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 9 Copy">
+<g id="Group 3 Copy 2">
+<g id="Rectangle" filter="url(#filter0_d)">
+<rect x="3" y="3" width="146" height="95" rx="4" fill="#3BAEFF"/>
+<rect x="3.5" y="3.5" width="145" height="94" rx="3.5" stroke="#C9E9FF"/>
+</g>
+<rect id="Rectangle_2" x="27" y="8" width="116" height="5" rx="2.5" fill="#A9DBFF"/>
+<rect id="Rectangle_3" x="16" y="10" width="6" height="1" fill="#A9DBFF"/>
+<rect id="Rectangle Copy 10" x="9" y="10" width="6" height="1" fill="#A9DBFF"/>
+</g>
+<g id="Rectangle Copy 37">
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="4" y="4" width="144" height="93">
+<rect id="Mask" x="4" y="4" width="144" height="93" rx="4" fill="white"/>
+</mask>
+<g mask="url(#mask0)">
+<rect id="Rectangle Copy 37_2" x="-2" y="19" width="39" height="84" rx="2" fill="#2A8ACD"/>
+</g>
+</g>
+<rect id="Rectangle Copy 38" x="42" y="20" width="19" height="18" rx="2" fill="white"/>
+<rect id="Rectangle Copy 42" x="42" y="76" width="19" height="18" rx="2" fill="white"/>
+<rect id="Rectangle Copy 47" x="96" y="76" width="19" height="18" rx="2" fill="#1085D8"/>
+<rect id="Rectangle Copy 46" x="69" y="76" width="19" height="18" rx="2" fill="#1272B6"/>
+<rect id="Rectangle Copy 48" x="123" y="76" width="19" height="18" rx="2" fill="#1D91E3"/>
+<rect id="Rectangle Copy 39" x="42" y="42" width="46" height="18" rx="2" fill="#1085D8"/>
+<rect id="Rectangle Copy 40" x="69" y="20" width="19" height="18" rx="2" fill="#086AAF"/>
+<rect id="Rectangle Copy 43" x="96" y="58" width="31" height="12" rx="2" fill="white"/>
+<rect id="Rectangle Copy 44" x="96" y="20" width="46" height="34" rx="2" fill="#2293E3"/>
+</g>
+<defs>
+<filter id="filter0_d" x="0" y="0" width="158" height="107" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dx="3" dy="3"/>
+<feGaussianBlur stdDeviation="3"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.248613 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+</defs>
+</svg>

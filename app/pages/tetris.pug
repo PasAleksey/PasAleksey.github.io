@@ -1,0 +1,37 @@
+doctype html
+html(lang="ru")
+include modules/head
+body.tetris-game
+    include  modules/black-box
+    include modules/header
+    section
+        p.title hello
+        .d-flex
+            .left
+            .main
+            .right
+                .table-preview
+                    .item
+                    .item
+                    .item
+                    .item
+                    .item
+                    .item
+                    .item
+                    .item
+                    .item
+                    .item
+                    .item
+                    .item
+                    .item
+                    .item.start
+                    .item
+                    .item
+        .stat.d-flex.justify-content-center
+            p Level:
+            input.level(type="text" readonly)
+            p SCORE:
+            input.score(type="text" readonly)
+    include modules/footer
+//script(src="https://unpkg.com/imask")
+script(src="js/scripts.min.js")

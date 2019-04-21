@@ -1,0 +1,69 @@
+<svg width="131" height="131" viewBox="0 0 131 131" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 48">
+<g id="Group 6 Copy 2">
+<g id="Rectangle Copy 62" filter="url(#filter0_d)">
+<rect x="122" y="49" width="65" height="119" rx="9" transform="rotate(90 122 49)" fill="white"/>
+<rect x="121.5" y="49.5" width="64" height="118" rx="8.5" transform="rotate(90 121.5 49.5)" stroke="#FFCDC1"/>
+</g>
+<path id="Rectangle Copy 63" fill-rule="evenodd" clip-rule="evenodd" d="M111 52C115.418 52 119 55.5817 119 60L119 68.7736C119 69.96 118.451 71.0797 117.513 71.8063C116.575 72.5329 116.026 73.6525 116.026 74.839V87.9023C116.026 89.0588 116.579 90.1457 117.513 90.8272C118.447 91.5087 119 92.5956 119 93.7521L119 103C119 107.418 115.418 111 111 111L14 111C9.58173 111 6 107.418 6 103L6 60C6 55.5817 9.58172 52 14 52L111 52Z" fill="#DC5A3C"/>
+<g id="Group 47">
+<rect id="Rectangle Copy 77" x="9.05469" y="58.7102" width="12" height="12" rx="1" fill="#BB472C"/>
+<rect id="Rectangle Copy 80" x="9.05469" y="73.7102" width="46.6207" height="9" rx="1" fill="#BC3B1E"/>
+<rect id="Rectangle Copy 109" x="9.05469" y="94.7102" width="46.6207" height="8" rx="1" fill="#B94024"/>
+<rect id="Rectangle Copy 81" x="9.05469" y="84.7102" width="46.6207" height="8" rx="1" fill="#9F1E00"/>
+<rect id="Rectangle Copy 78" x="26.0547" y="58.7102" width="12" height="12" rx="1" fill="#9B2F16"/>
+<rect id="Rectangle Copy 79" x="44.0547" y="58.7102" width="12" height="12" rx="1" fill="white"/>
+</g>
+<g id="Group 41">
+<rect id="Rectangle Copy 82" x="59.7383" y="64.0276" width="29" height="7" rx="1" fill="#91250C"/>
+<rect id="Rectangle Copy 84" x="89.7383" y="64.0276" width="22" height="7" rx="1" fill="#BA4024"/>
+<rect id="Rectangle Copy 87" x="59.7383" y="59.0276" width="15" height="3" rx="1" fill="white"/>
+<rect id="Rectangle Copy 96" x="59.7383" y="83.0276" width="29" height="3" rx="1" fill="white"/>
+<rect id="Rectangle Copy 83" x="59.7383" y="72.0276" width="52" height="7" rx="1" fill="#AE2E10"/>
+<rect id="Rectangle Copy 85" x="59.7383" y="89.0276" width="17" height="14" rx="1" fill="#A72C10"/>
+<rect id="Rectangle Copy 86" x="79.7383" y="89.0276" width="33" height="14" rx="1" fill="#C53919"/>
+</g>
+<rect id="Rectangle Copy 108" x="50" y="107.62" width="23" height="1" rx="0.5" fill="#96280E"/>
+</g>
+<g id="Group 6 Copy">
+<g id="Rectangle Copy 62_2" filter="url(#filter1_d)">
+<rect x="17" y="3" width="65" height="119" rx="9" fill="white"/>
+<rect x="17.5" y="3.5" width="64" height="118" rx="8.5" stroke="#FFCDC1"/>
+</g>
+<path id="Rectangle Copy 63_2" fill-rule="evenodd" clip-rule="evenodd" d="M20 14C20 9.58173 23.5817 6 28 6L36.7736 6C37.96 6 39.0797 6.54894 39.8063 7.48684C40.5329 8.42474 41.6525 8.97368 42.839 8.97368H55.9023C57.0588 8.97368 58.1457 8.42118 58.8272 7.48684C59.5087 6.55251 60.5956 6 61.7521 6L71 6C75.4183 6 79 9.58172 79 14V111C79 115.418 75.4183 119 71 119H28C23.5817 119 20 115.418 20 111V14Z" fill="#FF795A"/>
+<rect id="Rectangle Copy 77_2" x="24" y="19" width="12" height="12" rx="1" fill="#DC593B"/>
+<rect id="Rectangle Copy 80_2" x="24" y="34" width="52" height="9" rx="1" fill="#C8482B"/>
+<rect id="Rectangle Copy 82_2" x="24" y="66" width="29" height="9" rx="1" fill="#B5381B"/>
+<rect id="Rectangle Copy 84_2" x="54" y="66" width="22" height="9" rx="1" fill="#C54B2F"/>
+<rect id="Rectangle Copy 81_2" x="24" y="45" width="52" height="9" rx="1" fill="#DE5738"/>
+<rect id="Rectangle Copy 87_2" x="24" y="60" width="15" height="3" rx="1" fill="white"/>
+<rect id="Rectangle Copy 96_2" x="24" y="89" width="29" height="3" rx="1" fill="white"/>
+<rect id="Rectangle Copy 83_2" x="24" y="76" width="52" height="9" rx="1" fill="#D95233"/>
+<rect id="Rectangle Copy 85_2" x="24" y="95" width="17" height="17" rx="1" fill="#CA4425"/>
+<rect id="Rectangle Copy 108_2" x="38" y="115" width="23" height="1" rx="0.5" fill="#96280E"/>
+<rect id="Rectangle Copy 78_2" x="44" y="19" width="12" height="12" rx="1" fill="#BD3A1C"/>
+<rect id="Rectangle Copy 86_2" x="44" y="95" width="33" height="17" rx="1" fill="#D44C2C"/>
+<rect id="Rectangle Copy 79_2" x="65" y="19" width="12" height="12" rx="1" fill="white"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_d" x="0" y="46" width="131" height="77" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dx="3" dy="3"/>
+<feGaussianBlur stdDeviation="3"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.248613 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<filter id="filter1_d" x="14" y="0" width="77" height="131" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dx="3" dy="3"/>
+<feGaussianBlur stdDeviation="3"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.248613 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+</defs>
+</svg>
