@@ -53,6 +53,7 @@ gulp.task('scripts', function() {
 		'node_modules/bootstrap/dist/js/bootstrap.min.js',
 		'node_modules/imask/dist/imask.min.js',
 		'node_modules/owl.carousel/dist/owl.carousel.min.js',
+		'node_modules/vue/dist/vue.js',
 		'app/js/common.js', // Always at the end
 		])
 	.pipe(concat('scripts.min.js'))

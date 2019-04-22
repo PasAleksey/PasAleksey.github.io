@@ -127,13 +127,12 @@ $(function() {
 
 				ctx.beginPath();
 				ctx.moveTo(e.clientX, e.clientY);
-			} else {}
+			}
 		});
-		$('.save-canvas').on('click', function () {
-			window.open(canv.toDataURL("image/png"));
-		});
+		// $('.save-canvas').on('click', function () {
+		// 	window.open(canv.toDataURL("image/png"));
+		// });
 	}
-
 });
 // tetris
 $(function () {
@@ -458,4 +457,38 @@ $(function () {
 		});
 	}
 
+});
+
+$(function () {
+	if ( $('body').hasClass('vue-js') ) {
+		new Vue({
+			el: "#app",
+			data: {
+				message: '',
+				bears: [
+					{
+						name: 'bear1',
+						age: 19
+					},
+					{
+						name: 'bear2',
+						age: 21
+					},
+					{
+						name: 'bear3',
+						age: 18
+					},
+					{
+						name: 'bear4',
+						age: 42
+					}
+				]
+			},
+			methods: {
+				onClick: function() {
+					alert(this.message);
+				}
+			}
+		});
+	}
 });

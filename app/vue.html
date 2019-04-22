@@ -11,13 +11,18 @@
   <link rel="apple-touch-icon" sizes="180x180" href="img/favicon/apple-touch-icon-180x180.png">
   <meta name="theme-color" content="#000">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
-  <link rel="stylesheet" type="text/css" href="/css/main.min.css">
+  <link rel="stylesheet" type="text/css" href="css/main.min.css">
 </head>
-<body>
+<body class="vue-js">
   <div class="black-box"></div>
   <header></header>
-  <section>
-    <div>hello!</div>
+  <section id="app">
+    <input v-model="message" @keyup.13="onClick">
+    <ul>
+      <li v-for="bear in bears">{{ bear.name }}, {{ bear.age }}</li>
+    </ul>
+    <button @click="onClick">Press me</button>
+    <hr>
   </section>
   <footer></footer>
 </body>
